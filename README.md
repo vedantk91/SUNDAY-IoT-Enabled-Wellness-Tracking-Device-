@@ -6,12 +6,12 @@ SunDay Wellness Tracker is a comprehensive health monitoring device based on the
 ![SunDay-Wellness-Tracker](Images/image2.png)
 
 #### SunDay-Wellness-Tracker with 3D printed enclosure
-![ SunDay-Wellness-Tracker with 3D printed enclosure](images/image3.png)
+![ SunDay-Wellness-Tracker with 3D printed enclosure](Images/image3.png)
 
 ## Development Procedure
 
 #### Development Procedure Flowchart
-![Development Procedure Flowchart](images/image1.png)
+![Development Procedure Flowchart](Images/image1.png)
 
 ### Firmware Development and System Integration:
 - Utilized the ATmega328P microcontroller, interfacing it with HC05 Bluetooth Sensor over UART and GUVA S12-SD sensor over ADC.
@@ -51,7 +51,7 @@ After every 10 samples, calculates the exposure percentages for natural and arti
 
 The  Flutter Application written for the device can be found in the Sunday Flutter Application Folder.
 #### Mobile Application Flowchart
-![Mobile Application Flowchart](images/image10.png)
+![Mobile Application Flowchart](Images/image10.png)
 - Main.dart:
 Initializes the Flutter app and Firebase. Sets up routes for different pages (like WelcomePage, HomePage, etc.). Uses Get.put to instantiate a BluetoothController for managing Bluetooth functionalities.
 - Dashboard Page:
@@ -82,7 +82,7 @@ The app starts with the main.dart, which sets up the necessary controllers and r
 </p>
 
 #### Firebase Cloud Data Real-time Database
-![Firebase Cloud Data Real-time Database](images/image7.png)
+![Firebase Cloud Data Real-time Database](Images/image7.png)
 
 
 ## Conclusion
