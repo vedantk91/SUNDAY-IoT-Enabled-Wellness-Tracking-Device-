@@ -24,7 +24,7 @@ SunDay Wellness Tracker is a comprehensive health monitoring device based on the
 The Firmware written for the device can be found in Sunday Firmware Folder.
 
 #### Device Firmware Flowchart
-![Development Procedure Flowchart](images/image9.png)
+![Development Procedure Flowchart](Images/image9.png)
 
 - LCD and UART Initialization: Sets up the LCD display for data visualization and initializes UART for serial communication.
 - ADC Initialization: Configures the Analog-to-Digital Converter for reading UV sensor data. Sensor Initialization: Initializes the air quality and light sensors (ENS160 MOX and AS7262).
