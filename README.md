@@ -3,7 +3,7 @@
 SunDay Wellness Tracker is a comprehensive health monitoring device based on the Atmega328P MCU. It measures UV exposure, differentiates between artificial and natural light exposure for the user, and assesses air quality. The real-time data captured by our advanced sensors is transmitted to a user-friendly Flutter-based mobile application via Bluetooth for drawing inferences from the data. This app not only displays the data but also stores it in the Firebase Cloud Realtime Database for long-term analysis and health tracking.
 
 #### SunDay-Wellness-Tracker
-![SunDay-Wellness-Tracker](images/image2.png)
+![SunDay-Wellness-Tracker](I/image2.png)
 
 #### SunDay-Wellness-Tracker with 3D printed enclosure
 ![ SunDay-Wellness-Tracker with 3D printed enclosure](images/image3.png)
